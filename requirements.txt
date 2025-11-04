@@ -1,0 +1,34 @@
+
+
+# LangChain dependencies
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+
+# LLM and AI dependencies
+sentence-transformers
+faiss-cpu
+scikit-learn
+numpy
+
+# Document processing
+pdfplumber
+docx2txt
+# spacy
+
+# Web scraping
+selenium
+beautifulsoup4
+requests
+
+# Data processing
+pandas
+
+# # Database
+# psycopg2-binary
+# sqlalchemy
+
+# # Additional utilities
+# python-multipart
+# aiofiles

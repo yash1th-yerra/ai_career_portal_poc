@@ -1,0 +1,75 @@
+{
+    "Personal Info": {
+        "name": "Yeswanth Yerra",
+        "emails": [
+            "yeswanthyerra07@gmail.com"
+        ],
+        "phones": [
+            "+91 9550413132"
+        ],
+        "links": [],
+        "raw": "['Yeswanth Yerra', '+91 9550413132 yeswanthyerra07@gmail.com Linkedin Github', 'Education', 'Pragati Engineering College', 'Surampalem, AP', 'Bachelor of Technology, Computer Science and Engineering (GPA- 8.14/10.0)', 'Aug. 2019 May 2023', 'Sasi junior College', 'Eluru, AP', 'Intermediate (GPA-9.8/10.0)']"
+    },
+    "Yeswanth Yerra": "+91 9550413132 yeswanthyerra07@gmail.com Linkedin Github",
+    "Education": [
+        "Pragati Engineering College",
+        "Surampalem, AP",
+        "Bachelor of Technology, Computer Science and Engineering (GPA- 8.14/10.0)",
+        "Aug. 2019 May 2023",
+        "Sasi junior College",
+        "Eluru, AP",
+        "Intermediate (GPA-9.8/10.0)",
+        "Aug 2017 May 2019"
+    ],
+    "Technical Skills": [
+        "Languages: Java, JavaScript, Python",
+        "Core Skills: Data Structures & Algorithms, Computer Networks , Operating Systems,DBMS",
+        "Frameworks: Spring Boot, Hibernate,React.js,Flask",
+        "Developer Tools: Git, Docker, Terraform, Ansible, Jenkins",
+        "Databases: MySQL, MongoDB, PostgreSQL",
+        "Cloud Computing: AWS,Kubernetes"
+    ],
+    "Experience": [
+        "Full Stack Development Intern",
+        "June 2024 - October 2024",
+        "Pantech Prolabs Pvt Ltd",
+        "Chennai,TN(Remote) Engineered a web application using Spring Boot for the backend, employing RESTful APIs and efficient database",
+        "querying with MongoDB. Gained expertise in design patterns and microservice architecture for building efficient, modular systems. Applied scalable web development practices to ensure optimal performance under increasing user loads and",
+        "Implemented authentication and authorization. Maintained high code quality by adhering to clean coding practices and leveraging testing frameworks like JUnit5",
+        "and Mockito, achieving 95% test coverage. Enhanced application reliability with Docker containerization, cutting deployment time by 50% and ensuring",
+        "consistent performance across all environments."
+    ],
+    "Projects": [
+        "Movie Recommendation System Demo",
+        "October 2021 - March 2022 Led a team of 4 members for movie recommendation system by integrating collaborative filtering, content-based",
+        "filtering, and matrix factorization, resulting in a 33% improvement in accuracy using the MovieLens dataset. Extracted metadata features and employed TF-IDF for precise vector representation and enhancing feature quality",
+        "by 30%. Reduced RMSE from 2.2489 to 1.1000 by finetuning ALS matrix factorization for collaborative filtering. Addressed sparsity and cold-start challenges effectively using content-based filtering, reducing cold-start failures by",
+        "50% and improving recommendation coverage.",
+        "Network Intrusion Detection System (NIDS) Repo",
+        "October 2022 - March 2023 Engineered a Network Intrusion Detection System Utilizing BiLSTM to capture both forward and backward",
+        "dependencies,Integrated an attention layer to prioritize critical features, resulting in a 25% increase in detection",
+        "accuracy. Trained the model on the refined NSL-KDD dataset, addressing class imbalance and boosting overall performance",
+        "by 30%. Implemented hyperparameter tuning using grid search and random search, optimizing the BiLSTM networks",
+        "learning rate, batch size, and number of hidden layers, leading to a 20% increase in accuracy.",
+        "Job Application Microservices API Repo",
+        "October 2023 - December 2023 Designed and deployed a microservices architecture using Spring Boot, Eureka, and Feign clients, enabling seamless",
+        "communication between 3+ services, with 99.9% availability. Implemented JWT-based authentication and role-based security across 3 microservices, securing 100+ endpoints",
+        "with 2 or more roles per service. Integrated RabbitMQ for asynchronous communication, handling up to 50,000 messages per day between",
+        "microservices, improving system performance and reliability. Deployed the application on Kubernetes, leveraging auto-scaling and caching strategies to efficiently handle traffic",
+        "spikes and ensure high availability for up to 100,000 concurrent users.",
+        "Simple Song Search Repo",
+        "November 2024 -December 2024 Engineered a robust song search application using Flask and advanced algorithms like TF-IDF and cosine similarity",
+        "across a dataset of over 50,000 tracks Improving search speed and accuracy by 40% . Designed a responsive web interface and deployed the application on Render,achieving a 99.9% deployment success",
+        "rate."
+    ],
+    "Certifications": [
+        "DataScience for Engineers - NPTEL-IIT MADRAS 2023",
+        "Software Engineering Job Simulation - Hewlett Packard Enterprise(Forage) 2024",
+        "GenAI path in Google Cloud Platform - Google",
+        "Java 17 MasterClass - Udemy",
+        "Machine Learning Using Python - SimpliLearn",
+        "Accounting and Data Analytics with Python - Coursera-Illinois University"
+    ],
+    "preferred_title": "Machine Learning Engineer",
+    "preferred_job_location": "India"
+}

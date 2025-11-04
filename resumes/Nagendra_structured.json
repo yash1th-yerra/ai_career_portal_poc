@@ -1,0 +1,57 @@
+{
+    "Personal Info": {
+        "name": "N V NAGENDRA REDDY",
+        "emails": [
+            "vsnreddy65@gmail.com"
+        ],
+        "phones": [
+            "+91-9951754803"
+        ],
+        "links": [],
+        "raw": "['N V NAGENDRA REDDY', ' chinna250801 i n-v-nagendra-reddy-b72772211 \\x83 +91-9951754803 vsnreddy65@gmail.com', 'Professional Experience', 'Developer and Cloud Engineer Wingage technologies', 'DEC 2023-Present', ' Core Developer for SaaS Platform: Key contributor to a startups SaaS platform architecture, initially developed in', 'Golang for webhook infrastructure. Later transitioned to FastAPI in Python for RESTFul APIs development,', 'optimizing service efficiency.', ' AWS Infrastructure Management: Leveraged AWS services including SQS, SNS, Lambda, API Gateway,', 'CloudWatch, and S3, ensuring robust backend support and performance.']"
+    },
+    "N V Nagendra Reddy": "chinna250801 i n-v-nagendra-reddy-b72772211 +91-9951754803 vsnreddy65@gmail.com",
+    "Professional Experience": [
+        "Developer and Cloud Engineer Wingage technologies",
+        "DEC 2023-Present Core Developer for SaaS Platform: Key contributor to a startups SaaS platform architecture, initially developed in",
+        "Golang for webhook infrastructure. Later transitioned to FastAPI in Python for RESTFul APIs development,",
+        "optimizing service efficiency. AWS Infrastructure Management: Leveraged AWS services including SQS, SNS, Lambda, API Gateway,",
+        "CloudWatch, and S3, ensuring robust backend support and performance. CI/CD Strategy and DevOps Integration: Spearheaded CI/CD pipelines through Bitbucket Pipelines, enhancing",
+        "deployment speed and stability. Point of Sale (POS) Development: Contributed to frontend development in React for POS system integration,",
+        "bridging APIs with design elements in Figma to streamline customer transactions. Identifying & debugging production issues, managing failover mechanisms, &minimizing downtime. Conducting unit &load testing, ensuring optimal service performance through deployment, scaling, monitoring,",
+        "&alerting with metrics",
+        "Chatbot developer Freelance",
+        "AUG 2024- DEC2024 I am seasoned chatbot developer having experience with developing with rule based AI RASA and LLM powered",
+        "using Langchain and no code chat bot with Langflow. With the help of RASA framework developed conversational commerce bot as saas product",
+        ". Developed autonomous trading chatbot which is responsible to listen the websocket and autonomously proccess the",
+        "data and process the outcome with AI-Agents Having experience in building Machine Learning and Deep Leanrning models training and deploying,",
+        "developed multimodal sentiment analysis product Experienced in agile environments, proficient in giving & receiving reflective feedback, participating in scrum/daily",
+        "standups"
+    ],
+    "Education": [
+        "Vignans Lara Institute of Technology& Science,Guntur",
+        "2020-2024",
+        "Computer Science & Engineering",
+        "GPA: 8.4",
+        "Narayana Junior College",
+        "2018-2020",
+        "Intermediate",
+        "GPA: 9.59",
+        "Narayana Group of School",
+        "2017-2018",
+        "Xth",
+        "GPA: 9.8"
+    ],
+    "Technical Skills": [
+        "Programming Languages:-Python, Java, C, C++, Go",
+        "Python Libraries:-Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras",
+        "Backend Development:-FastAPI, GoLang (RESTAPI and GRPC)",
+        "Cloud Platforms:-AWS (EC2, S3, Lambda, SNS, SQS, API Gateway, CloudWatch)",
+        "Database Management:-PostgreSQL, MySQL",
+        "AI Tools:- Rasa ChatBot, Langchain Framework, Langflow",
+        "DevOps Tools::-Jenkins, Bitbucket Pipelines, Docker, Kubernetes, Ansible, Jira, Git, Linux, GitHub Actions",
+        "Achivements Secured Global rank 733 in TCS CODEVITA Season 11 & 5348 Global rank in season 10. Cloud Computing(Silver badge) certificate form NPTEL. College chapter lead for GeeksForGeeks for 6 semester and organised multiple inter college Hackathon."
+    ],
+    "preferred_title": "Machine Learning Engineer",
+    "preferred_job_location": "India"
+}
